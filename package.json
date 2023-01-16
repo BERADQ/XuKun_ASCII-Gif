@@ -1,0 +1,26 @@
+{
+  "name": "zhiyin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "ts-node ."
+  },
+  "keywords": [
+    "xiaoheizi",
+    "caixukun",
+    "zhiyinnitaimei",
+    "ascii-art"
+  ],
+  "author": "BERADQ",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "ts-node": "^10.9.1",
+    "@types/node": "^18.11.18",
+    "@types/cors": "^2.8.13"
+  },
+  "dependencies": {
+    "asciify-image": "^0.1.9"
+  }
+}
